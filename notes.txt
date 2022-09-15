@@ -3,3 +3,4 @@ i am in faithinfoTech
 i am doing a course FullStack in TechnoPark
 i am in faith
 i am doing a course FullStack in Thiruvandram
+the course contain python,oracle,java,backend, etc.
