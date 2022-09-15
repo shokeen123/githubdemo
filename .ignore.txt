@@ -1,0 +1,7 @@
+#to ignore file
+myfile.txt
+#ignore a dictionary
+temp
+cach
+#ignore all file
+.log
